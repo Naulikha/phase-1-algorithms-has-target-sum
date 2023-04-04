@@ -11,6 +11,7 @@ function hasTargetSum(array, target) {
 /* 
   Write the Big O time complexity of your function here
   runtime : 0(n^2)
+  space O(n)
 */
 
 /* 
